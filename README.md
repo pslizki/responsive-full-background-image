@@ -1,0 +1,1 @@
+# responsive-full-background-image
